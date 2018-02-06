@@ -9,4 +9,5 @@ I love English,Math,Python,Java,Oracle
 Creating a new branch is quick AND simple
 >>>>>>> feature
 Git is very good
+I love Git,and Git is easy to learn
 
